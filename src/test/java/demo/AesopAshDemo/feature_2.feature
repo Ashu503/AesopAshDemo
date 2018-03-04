@@ -4,4 +4,4 @@ Feature: SignUpPage for Unknown Email
     		Given Navigate to login page
     		When Enter unknown email address
     		Then Screen appears with Title, Firstname and Lastname
-    		#And Close the browser
+    		And Close the browser

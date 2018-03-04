@@ -5,3 +5,5 @@ Feature: Checkout
     		When Add a product to the cart
     		Then View the cart and checkout
     		And Enter an email address in the checkout process
+    		And Close the browser
+
